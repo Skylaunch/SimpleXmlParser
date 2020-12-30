@@ -1,0 +1,14 @@
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\bin\Debug\netstandard2.0\GrigorevMaxim.deps.json
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\bin\Debug\netstandard2.0\GrigorevMaxim.dll
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\bin\Debug\netstandard2.0\ref\GrigorevMaxim.dll
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\bin\Debug\netstandard2.0\GrigorevMaxim.pdb
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.AssemblyInfo.cs
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.dll
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\ref\GrigorevMaxim.dll
+C:\Users\maxim\source\repos\vs 2019\GrigorevMaxim\GrigorevMaxim\GrigorevMaxim\obj\Debug\netstandard2.0\GrigorevMaxim.pdb

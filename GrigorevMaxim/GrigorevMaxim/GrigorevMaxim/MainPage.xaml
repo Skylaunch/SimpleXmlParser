@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GrigorevMaxim.MainPage">
+
+    <StackLayout>
+        <ListView x:Name="OutputList" WidthRequest="100" HeightRequest="300" ItemSelected="OutputList_ItemSelected"/>
+        <Editor x:Name="currentIdEditor" IsReadOnly="True" WidthRequest="100" HeightRequest="300" Margin="5,5,5,5" Background="Wheat"/>
+        <Label Margin="5,5,5,5" Text="Единственная проблема этого приложения в том, что кодировка в текстовом поле не выставляется, но так как цель задания - показать навыки в Xamarin, то я решил, что это не особо важно"/>
+    </StackLayout>
+
+</ContentPage>
